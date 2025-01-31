@@ -1,10 +1,20 @@
 <Instructions>
-Adjunto 5 archivos de ejemplo donde encontraras el formato de salida que necesito, sigue las instrucciones y genera tu respuesta en ese tipo de formato.
 
-Utiliza las descripciones de los agentes a continuacion y el meta prompt para generar la configuración de cada uno de los agentes descritos.
+📌 Instrucciones
+1️⃣ Objetivo: Genera la configuración individual de cada agente descrito a continuación utilizando el meta prompt proporcionado.
 
-No olvides utilizar el fomrato de los archivos adjuntos en el ouput, esto es muy importante.
+2️⃣ Formato de Salida:
 
+Se adjuntan 5 archivos de ejemplo que contienen el formato exacto que debe tener la salida.
+Es fundamental seguir estrictamente este formato en la respuesta.
+Cada agente debe tener su propia configuración en un archivo separado.
+3️⃣ Pasos a Seguir:
+
+Lee detenidamente las descripciones de los agentes.
+Usa el meta prompt como guía para generar sus configuraciones.
+Cada agente debe tener su propia configuración generada en un archivo independiente.
+Respeta el formato de los archivos adjuntos en la salida.
+🔴 IMPORTANTE: La salida debe coincidir exactamente con el formato de los archivos de ejemplo adjuntos.
 
 <Instructions>
 
